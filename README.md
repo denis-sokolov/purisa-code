@@ -7,3 +7,5 @@ Purisa-code is a hand-written proportional typeface for programming with advance
 Original Purisa typeface has been created by [Thai Linux Working Group](http://linux.thai.net/svn/software/fonts-tlwg/trunk/tlwg/CREDITS),
 in particular, Ms.Purisa Cholasueks, Mr.Teeratep Sosakul, and Theppitak Karoonboonyanan.
 Latest version of their typeface can be found in [the repository](http://linux.thai.net/svn/software/fonts-tlwg/trunk/tlwg/), where [it is still being maintained](http://linux.thai.net/svn/software/fonts-tlwg/trunk/ChangeLog).
+
+Any work on Purisa-code is only possible thanks to Georg Seifert and his awesome [Glyphs application](https://www.glyphsapp.com/).
