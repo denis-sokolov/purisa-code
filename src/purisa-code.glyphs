@@ -470,8 +470,10 @@ value = (
 );
 }
 );
-date = "2015-11-15 01:57:27 +0000";
-familyName = "Purisa";
+date = "2016-04-17 05:00:00 +0000";
+designer = "TLWG, Denis Sokolov";
+designerURL = "https://github.com/denis-sokolov/purisa-code";
+familyName = "Purisa-code";
 featurePrefixes = (
 {
 automatic = 1;
@@ -53078,8 +53080,7 @@ T = -200;
 };
 };
 };
-manufacturer = TLWG;
 unitsPerEm = 1000;
-versionMajor = 3;
-versionMinor = 7;
+versionMajor = 1;
+versionMinor = 0;
 }
