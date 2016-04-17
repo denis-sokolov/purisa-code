@@ -2,6 +2,8 @@
 
 Purisa-code is a hand-written proportional typeface for programming with advanced features: kerning, ligatures, other replacements.
 
+![Code rendering example](screenshots/main.png)
+
 Download the font in the [releases section](https://github.com/denis-sokolov/purisa-code/releases/).
 
 ## Credits
